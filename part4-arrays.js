@@ -27,3 +27,9 @@ People.push("ash")
 console.log(People)
 let length = People.length
 console(length)
+
+//Problem 3: Weekend Tasks
+
+let tasks = ["laundry", "groceries", "coding", "naps"];
+console.log(tasks)
+print.tasks(0,1,2,3)

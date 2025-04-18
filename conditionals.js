@@ -1,6 +1,7 @@
 // Grade Checker
 
 let score = 82;
+
 // Print A, B, C, D, or F based on score
 // Pizza Quantity Warning
 

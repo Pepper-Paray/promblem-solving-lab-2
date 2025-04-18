@@ -1,7 +1,7 @@
-function sayHello() {
- 
+function sayHello(hello) {
+ hello
 }
 
-function showName() {
-  
+function showName(pepper) {
+  william
 }

@@ -32,4 +32,15 @@ console(length)
 
 let tasks = ["laundry", "groceries", "coding", "naps"];
 console.log(tasks)
-print.tasks(0,1,2,3)
+printTasks(tasks)
+console.log(tasks)
+
+//Problem 4: Reverse It (Manual Reverse)
+let numbers = [1, 2, 3, 4, 5];
+console.log(numbers)
+reverse(numbers)
+console.log(numbers)
+
+//Bonus: Random Picker
+let lunches = ["burrito", "pizza", "sandwich", "ramen"];
+console.log(randomLunch(lunches)); "pizza"
